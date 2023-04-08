@@ -1,3 +1,4 @@
+![logo](https://github.com/anshulgoodcoder/anshulgoodcoder/blob/main/github%20banner.jpg)
 <h1 align="center">Hey devs, I'm Anshul Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
